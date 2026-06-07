@@ -63,28 +63,14 @@ As a B.Tech Computer Science graduate pursuing a career in Data Analytics, I con
 
 This certification represents an important milestone in my journey toward becoming a Data Analyst.
 
-## Repository Structure
-
-```text
-microsoft-data-analysis-using-excel-certification/
-│
-├── Certificate/
-│   └── Microsoft_Data_Analysis_Using_Excel_Certificate.pdf
-│
-├── README.md
-│
-└── Assets/
-    └── certificate-preview.png
-```
-
+ 
 ## Connect With Me
 
 ### LinkedIn
-[Your LinkedIn Profile]
+[https://www.linkedin.com/in/lucky-aswal-820793315/]
 
-### GitHub
-[Your GitHub Profile]
-
----
+### email 
+- luckyaswal842@gmail.com
+ 
 
 ⭐ Thank you for visiting my repository. Feel free to explore my other Data Analytics projects and certifications.
