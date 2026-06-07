@@ -64,7 +64,7 @@ As a B.Tech Computer Science graduate pursuing a career in Data Analytics, I con
 This certification represents an important milestone in my journey toward becoming a Data Analyst.
 
 ## Certificate
-![Uploading Screenshot 2026-06-07 120900.png…]()
+<img width="637" height="443" alt="Screenshot 2026-06-07 120900" src="https://github.com/user-attachments/assets/e95883b9-3c9f-4f07-a43e-61d408304f95" />
 
  
 ## Connect With Me
